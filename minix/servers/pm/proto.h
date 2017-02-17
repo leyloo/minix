@@ -91,4 +91,4 @@ int pm_isokendpt(int ep, int *proc);
 void tell_vfs(struct mproc *rmp, message *m_ptr);
 
 /* how many procs */
-void howmanyprocs(void);
+void do_howmanyprocs(void);

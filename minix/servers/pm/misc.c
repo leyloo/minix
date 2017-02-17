@@ -430,7 +430,7 @@ int do_getrusage()
 /*===================================================*
  *               howmanyprocs
  *===================================================*/
-void howmanyprocs(void)
+void do_howmanyprocs(void)
 {
       printf("HELLO FROM SONDLEY\n");
 }
